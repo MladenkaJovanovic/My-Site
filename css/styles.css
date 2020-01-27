@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Kaushan Script', cursive;
+  color: #5d5b6a;
+  font-size: 300%;
+}
+h2 {
+  font-family: 'Merriweather', serif;
+  color: #5d5b6a;
+}
+h3 {
+  font-family: 'Merriweather', serif;
+  color: #758184;
+  }
+
+h4 {
+    font-family: 'Merriweather', serif;
+    color: #5d5b6a;
+}
+
+hr {
+  border-top: 5px dotted;
+  width: 3%;
+  color: #cfb495;
+}
+p {
+  color: #5d5b6a;
+}
+.top-container {
+  background-color: #f5cdaa;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #fff4e4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.qa-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.web-icon {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.bottom-container {
+  background-color: #cfb495;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-glass {
+  width: 120px;
+  position: absolute;
+  right: 550px;
+  top: 50px;
+}
+
+.glass {
+  width: 50px;
+  position: absolute;
+  right: 1200px;
+  top: 50px;
+}
+
+.bottom-glass {
+  width: 80px;
+  position: absolute;
+  left: 540px;
+  bottom: 650px;
+}
+.top-bug {
+  position: absolute;
+  right: 650px;
+  top: 50px;
+}
+
+
+.skill-row {
+  width: 35%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.hello {
+  width: 35%;
+  margin: 30px auto 30px auto;
+  text-align: center;
+  line-height: 2;
+}
+.touch {
+  width: 35%;
+  margin: 30px auto 30px auto;
+  text-align: center;
+  line-height: 2;
+}
+.btn {
+
+  background-color: #cfb495;
+  border: none;
+  color: #5d5b6a;
+  border-radius: 8px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.footer-link {
+  font-size: 18px;
+  color: #5d5b6a;
+  text-decoration: none;
+}
